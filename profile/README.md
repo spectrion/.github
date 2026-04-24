@@ -8,4 +8,5 @@
 we are a community dedicated to getting rid of censorship on locked down devices. have fun taking a look at all our projects and repositries as all of them are open source and free to use, fork, and build off of. we hope you find our services good
        
 ## Projects
-- [Celestal](https://github.com/spectrion/celestal) - Our Web Engine Simillar To ScramJet and UltraViolet (Designed For Netlify)
+- [Celestal](https://github.com/spectrion/celestal) - Our Web Engine Simillar To ScramJet and UltraViolet (Designed For Node.js)
+- [Tornadoo](https://github.com/spectrion/tornadoo) - Android exploit for iPhone 7 and iPhone 7 Plus (A10 Chip) [Use At Your Own Risk]
