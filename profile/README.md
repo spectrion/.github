@@ -1,4 +1,4 @@
-![Spectrion](https://spectrion.github.io/assets/IMG_4087.png)
+![Spectrion](https://spectrion.github.io/assets/IMG_4104.png)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
